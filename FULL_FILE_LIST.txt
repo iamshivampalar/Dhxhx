@@ -1,0 +1,22 @@
+NeckFit Pro Premium v4 FULL package
+
+Important root files:
+- settings.gradle
+- build.gradle
+- app/build.gradle
+- app/src/main/AndroidManifest.xml
+- .github/workflows/android-build.yml
+
+Java source:
+- app/src/main/java/com/shivam/neckfit/MainActivity.java
+- app/src/main/java/com/shivam/neckfit/ReminderReceiver.java
+
+Resources:
+- app/src/main/res/values/colors.xml
+- app/src/main/res/values/strings.xml
+- app/src/main/res/values/styles.xml
+- app/src/main/res/drawable/*.xml
+- app/src/main/res/drawable/*_frame*.png
+- app/src/main/assets/gifs/*.gif
+
+This ZIP is ready to upload/push to GitHub root. GitHub Actions will build the APK.
